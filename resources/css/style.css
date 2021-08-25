@@ -2,5 +2,29 @@ body{
     text-align: center;
     background-color:black;
     color:white;
-    font-family:Veranda;
+    
 }
+.header{
+    font-weight:normal;
+    font-size:  50px;
+    font-family:Verdana;
+    
+}
+.link{
+    color:aquamarine;
+    font-size: 17px;
+}
+.titles{
+    font-family: Verdana;
+    font-weight:300;
+    font-size:  42px;
+}
+.text-under-header-2{
+    font-family: Verdana;
+    font-size: 21px;
+    color:gray;
+
+}
+footer{
+    text-align:right;
+color:gray;}
